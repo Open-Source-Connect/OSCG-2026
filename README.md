@@ -10,14 +10,14 @@ Welcome to the official **OSCG’26 Contributor Guidelines**. This repository is
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [The OSCG Model](#the-oscg-model)
+- [The OSCG Model](#understanding-the-oscg-contribution-model)
 - [Discovering Projects](#discovering-projects)
-- [Project Details](#project-details)
-- [Contribution Workflow](#contribution-workflow)
-- [Quality Standards](#quality-standards)
-- [Communication](#communication)
+- [Project Details](#project-details-page-explained)
+- [Contribution Workflow](#contribution-workflow-detailed)
+- [Quality Standards](#contribution-quality-standards)
+- [Communication](#communication-guidelines)
 - [Code of Conduct](#code-of-conduct)
-- [Stay Connected](#stay-connected)
+- [Stay Connected](#stay-connected-with-oscg)
 
 ---
 
